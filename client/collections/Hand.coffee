@@ -1,1 +1,1 @@
-class Hand extends Backbone.Collection
+class @Hand extends Backbone.Collection

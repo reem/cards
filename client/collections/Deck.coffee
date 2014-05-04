@@ -1,4 +1,4 @@
-class Deck extends Backbone.Collection
+class @Deck extends Backbone.Collection
   initialize: (config) ->
     @add _([0...52]).shuffle().map (card) ->
       new Card
