@@ -1,6 +1,7 @@
-#backboneIntroStep1a
+# Cards
 
-This is a copy of the work I did on a private repo, originally a project from
-[Hack Reactor's](http://hackreactor.com) curriculum. This project was worked
-on with a pair; it's representative of the kind of problems that I've tackled,
-but not of my solo work.
+An extremely lightweight library of models for building simple card games using
+Backbone. Cards supports Dealers, Players, Cards, Hands, and a Utility suite of
+runtime-safe suits of cards.
+
+This is was originally a project from [Hack Reactor's](http://hackreactor.com) curriculum.
